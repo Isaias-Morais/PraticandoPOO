@@ -14,6 +14,8 @@ class Carro:
 
 carro1 = Carro('Civic',11)
 carro1.frear()
+carro1.acelerar()
+carro1.acelerar()
 print(vars(carro1))
 
 
